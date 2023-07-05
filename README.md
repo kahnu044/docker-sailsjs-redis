@@ -1,4 +1,4 @@
-# sails-app
+# sails-redis-app
 
 a [Sails v1](https://sailsjs.com) application
 
@@ -14,7 +14,7 @@ a [Sails v1](https://sailsjs.com) application
 
 ### Version info
 
-This app was originally generated on Tue Jul 04 2023 14:45:33 GMT+0530 (India Standard Time) using Sails v1.5.5.
+This app was originally generated on Wed Jul 05 2023 16:35:45 GMT+0530 (India Standard Time) using Sails v1.5.5.
 
 <!-- Internally, Sails used [`sails-generate@2.0.8`](https://github.com/balderdashy/sails-generate/tree/v2.0.8/lib/core-generators/new). -->
 

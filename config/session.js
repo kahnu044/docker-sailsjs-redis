@@ -18,7 +18,7 @@ module.exports.session = {
   * of your users, forcing them to log in again.                             *
   *                                                                          *
   ***************************************************************************/
-  secret: 'a900ce9db370b82890952e1629685264',
+  secret: '0eeb8535a4da85c5d189054941a3fa1a',
 
 
   /***************************************************************************
@@ -35,8 +35,5 @@ module.exports.session = {
   // isSessionDisabled: function (req){
   //   return !!req.path.match(req._sails.LOOKS_LIKE_ASSET_RX);
   // },
-  adapter: 'connect-redis',
-  url: 'http://localhost:6379',
-
 
 };
